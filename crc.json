@@ -11,7 +11,7 @@
         "InterAd": "admob",
         "NativeAd": "admob",
          //"admob", "facebook", "max","ironsource","mintegral","toponad"
-        "AdsNetwork":"max,admob",
+        "AdsNetwork":"max",
 
 	"EnableBnr_Ntv":true,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -42,9 +42,9 @@
 
         "max_banner": "3fe9bf293afbac9e",
 		"Enable_EcpmMethode": false,
-        "max_inter": "58ca01ee9e28ff06",
+        "max_inter": "6c4d15784bcee778",
         "max_inter1": "aaaaa",
-        "max_inter2": "58ca01ee9e28ff06",
+        "max_inter2": "6c4d15784bcee778",
         "max_native": "b43d132b63b854a6",
 
 
