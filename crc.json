@@ -11,7 +11,7 @@
         "InterAd": "admob",
         "NativeAd": "admob",
          //"admob", "facebook", "max","ironsource","mintegral","toponad"
-        "AdsNetwork":"max,admob",
+        "AdsNetwork":"admob,max",
 
 	"EnableBnr_Ntv":true,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -102,7 +102,7 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-        "CaptchaActivity":true,
+        "CaptchaActivity":false,
 	    "LanguageActivity":true,
       		"enterActivity": true,
 
