@@ -11,7 +11,7 @@
         "InterAd": "admob",
         "NativeAd": "admob",
          //"admob", "facebook", "max","ironsource","mintegral","toponad"
-        "AdsNetwork":"facebook,admob",
+        "AdsNetwork":"max,admob",
 
 	"EnableBnr_Ntv":true,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
