@@ -7,9 +7,9 @@
 
         "show_ads": true,
 
-        "bannerAd": "toponad",
-        "InterAd": "max",
-        "NativeAd": "toponad",
+        "bannerAd": "admob",
+        "InterAd": "admob",
+        "NativeAd": "admob",
          //"admob", "facebook", "max","ironsource","mintegral","toponad"
         "AdsNetwork":"admob,unity",
 
