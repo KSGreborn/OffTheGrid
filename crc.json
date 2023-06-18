@@ -5,7 +5,7 @@
         "EnableUpdate":false ,
         "NewPackageName":"com",
 
-        "show_ads": true,
+        "show_ads": false,
 
         "bannerAd": "admob",
         "InterAd": "admob",
