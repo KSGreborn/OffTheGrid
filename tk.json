@@ -102,7 +102,7 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-        "CaptchaActivity":false,
+        "CaptchaActivity":true,
 	    "LanguageActivity":true,
       		"enterActivity": false,
 
