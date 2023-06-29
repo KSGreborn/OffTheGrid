@@ -11,7 +11,7 @@
         "InterAd": "max",
         "NativeAd": "admob",
          //"admob", "facebook"
-        "AdsNetwork":"toponad",
+        "AdsNetwork":"mintegral",
 
 	"EnableBnr_Ntv":false,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -23,14 +23,14 @@
         "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
         "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
 
-		"mintegral_APP_ID": "118690",
-		"mintegral_APP_KEY": "7c22942b749fe6a6e361b675e96b3ee9",
-		"mintegral_BANNER_PLACEMENT_ID": "138791",
-		"mintegral_BANNER_UNIT_ID": "146879",
-		"mintegral_AUTO_RENDING_NATIVE_PLACEMENT_ID": "202132",
-		"mintegral_AUTO_RENDING_NATIVE_UNIT_ID": "258656",
-		"mintegral_NEW_INTERSTITIAL_PLACEMENT_ID": "290653",
-		"mintegral_NEW_INTERSTITIAL_UNIT_ID": "462374",
+		"mintegral_APP_ID": "221572",
+		"mintegral_APP_KEY": "4906e3e2f032bbb1547280b816fdd410",
+		"mintegral_BANNER_PLACEMENT_ID": "917979",
+		"mintegral_BANNER_UNIT_ID": "2540038",
+		"mintegral_AUTO_RENDING_NATIVE_PLACEMENT_ID": "917983",
+		"mintegral_AUTO_RENDING_NATIVE_UNIT_ID": "2540042",
+		"mintegral_NEW_INTERSTITIAL_PLACEMENT_ID": "917981",
+		"mintegral_NEW_INTERSTITIAL_UNIT_ID": "2540040",
 
 		"TopOn_APP_ID": "a649ce04fad773",
 		"TopOn_APP_KEY": "a5e01cee91317500e205dc991f9e3994c",
