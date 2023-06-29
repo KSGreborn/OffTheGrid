@@ -11,7 +11,7 @@
         "InterAd": "max",
         "NativeAd": "admob",
          //"admob", "facebook"
-        "AdsNetwork":"max",
+        "AdsNetwork":"toponad",
 
 	"EnableBnr_Ntv":false,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
@@ -32,11 +32,11 @@
 		"mintegral_NEW_INTERSTITIAL_PLACEMENT_ID": "290653",
 		"mintegral_NEW_INTERSTITIAL_UNIT_ID": "462374",
 
-		"TopOn_APP_ID": "a6460b36d236ad",
-		"TopOn_APP_KEY": "0e29ce3c2d52ec02e5e94e273aa0ede6",
-		"TopOn_BANNER": "b6460b39033bfd",
-		"TopOn_Inter": "b6460b39a09f3a",
-		"TopOn_Native": "b6460b3a42f120",
+		"TopOn_APP_ID": "a649ce04fad773",
+		"TopOn_APP_KEY": "a5e01cee91317500e205dc991f9e3994c",
+		"TopOn_BANNER": "b649ce17127a0b",
+		"TopOn_Inter": "b649ce1902ea75",
+		"TopOn_Native": "b649ce19de3267",
 
 
 
