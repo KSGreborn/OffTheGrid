@@ -1,1 +1,132 @@
+{
+    "Ads": {
 
+
+        "EnableUpdate":false ,
+        "NewPackageName":"com",
+
+        "show_ads": true,
+
+        "bannerAd": "admob",
+        "InterAd": "max",
+        "NativeAd": "admob",
+         //"admob", "facebook"
+        "AdsNetwork":"max",
+
+	"EnableBnr_Ntv":false,
+        "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+        "admob_inter": "ca-app-pub-3940256099942544/1033173712",
+        "admob_native": "ca-app-pub-3940256099942544/2247696110",
+      
+      
+        "facebook_banner": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913160872031",
+        "facebook_inter": "IMG_16_9_APP_INSTALL#1265904117539602_1265912787538735",
+        "facebook_native": "CAROUSEL_IMG_SQUARE_APP_INSTALL#1265904117539602_1265913990871948",
+
+		"mintegral_APP_ID": "221572",
+		"mintegral_APP_KEY": "4906e3e2f032bbb1547280b816fdd410",
+		"mintegral_BANNER_PLACEMENT_ID": "917979",
+		"mintegral_BANNER_UNIT_ID": "2540038",
+		"mintegral_AUTO_RENDING_NATIVE_PLACEMENT_ID": "917983",
+		"mintegral_AUTO_RENDING_NATIVE_UNIT_ID": "2540042",
+		"mintegral_NEW_INTERSTITIAL_PLACEMENT_ID": "918324",
+		"mintegral_NEW_INTERSTITIAL_UNIT_ID": "2540471",
+
+		"TopOn_APP_ID": "a649ce04fad773",
+		"TopOn_APP_KEY": "a5e01cee91317500e205dc991f9e3994c",
+		"TopOn_BANNER": "b649ce17127a0b",
+		"TopOn_Inter": "b649ce1902ea75",
+		"TopOn_Native": "b649ce19de3267",
+
+
+
+        "max_banner": "3fe9bf293afbac9e",
+	    
+		"Enable_EcpmMethode": false,
+        "max_inter": "c07ba8356f2abdc8",
+        "max_inter1": "c07ba8356f2abdc8",
+        "max_inter2": "c07ba8356f2abdc8",
+	    
+        "max_native": "b43d132b63b854a6",
+
+
+		"ironsource_api": "1011dee21",
+		"App_id_pangle":"8103305",
+		"pangleBanner":"980397498",
+		"pangleNative":"980398953",
+		"pangleInter":"980398952",
+		"YandexBanner":"demo-banner-yandex",
+		"YandexInter":"demo-interstitial-yandex",
+		"YandexNative":"demo-native-content-yandex",
+		"unityGameID":"39831",
+		"testMode":true,
+	    "unityBanner":"Banner_Android",
+		"unityInter":"Interstitial_Android",
+
+        "intersitial_click_activites": 1,
+     
+        "show_banner_1":false,
+        "Url_banner_1":"www.google.com",
+        "Image_banner_1":"",
+        "Title_banner_1":"Super Nettoyeur",
+      
+        "show_banner_2": false,
+         "Url_banner_2":"https://",
+        "Image_banner_2":"",
+        "Title_banner_2":"get free stuff"
+    
+        
+    },
+
+    "Data": {
+		"normalPopUp": {
+			"popUpActive": false,
+			"popUpLink": "https://google.com",
+			"popUpName": "Normal Popup",
+			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif"
+		},
+        "privacyPolicy": "https://",
+	    
+		"genderActivity": true,
+	    
+		"phoneSystemActivity": false,
+	    
+		"questionActivity1": {
+			"active": false,
+			"question": "you like this?",
+			"ansewrA": "yes",
+			"ansewrB": "no"
+		},
+		"questionActivity2": {
+			"active": false,
+			"question": "Another question",
+			"ansewrA": "Maybe",
+			"ansewrB": "I don't know"
+		},
+		"birthdayActivity": false,
+        "CaptchaActivity":true,
+	    "LanguageActivity":true,
+      		"enterActivity": true,
+
+	    
+		"extraButton1Active": false,
+		"extraButton1Title": "Extra 1",
+		"extraButton1Url": "https://",
+		"extraButton2Active": false,
+		"extraButton2Title": "Extra 2",
+		"extraButton2Url": "https://www",
+		"enterButtonText": "SHOP NOW",
+		"webview": {
+			"active": true,
+			"url": "https://www.rossstores.com/found-in-store/",
+			
+			
+			
+			"popUpActive": false,
+			"popUpLink": "https://google.com",
+			"popUpName": "Browser App",
+			"popImage": "https://media3.giphy.com/media/igVvRDJ4EbhstQyEKh/giphy.gif",
+			"popUpTimer": 20000
+		}
+    }
+}
