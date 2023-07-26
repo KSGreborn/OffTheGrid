@@ -13,7 +13,7 @@
          //"admob", "facebook"
         "AdsNetwork":"admob",
 
-	"EnableBnr_Ntv":false,
+	"EnableBnr_Ntv":true,
         "admob_banner": "/21833905170,22877764688/Banner_com.ross.rossnshopping_banner_DU",
         "admob_inter": "/21833905170,22877764688/Interstitial_com.ross.rossnshopping_interstitial_DU",
         "admob_native": "/21833905170,22877764688/Native_com.ross.rossnshopping_native_DU",
