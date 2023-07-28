@@ -5,15 +5,15 @@
         "EnableUpdate":false ,
         "NewPackageName":"com",
 
-        "show_ads": false,
+        "show_ads": true,
 
         "bannerAd": "admob",
         "InterAd": "admob",
         "NativeAd": "admob",
          //"admob", "facebook", "max","ironsource","mintegral","toponad"
-        "AdsNetwork":"max,admob,facebook",
+        "AdsNetwork":"max",
 
-	"EnableBnr_Ntv":true,
+	"EnableBnr_Ntv":false,
         "admob_banner": "ca-app-pub-3940256099942544/6300978111",
         "admob_inter": "ca-app-pub-3940256099942544/1033173712",
         "admob_native": "ca-app-pub-3940256099942544/2247696110",
@@ -42,9 +42,9 @@
 
         "max_banner": "3fe9bf293afbac9e",
 		"Enable_EcpmMethode": false,
-        "max_inter": "6c4d15784bcee778",
-        "max_inter1": "6c4d15784bcee778",
-        "max_inter2": "6c4d15784bcee778",
+        "max_inter": "079bae9c7756ce7a",
+        "max_inter1": "079bae9c7756ce7a",
+        "max_inter2": "079bae9c7756ce7a",
         "max_native": "b43d132b63b854a6",
 
 
@@ -102,21 +102,21 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-        "CaptchaActivity":false,
+        "CaptchaActivity":true,
 	    "LanguageActivity":true,
       		"enterActivity": true,
 
 	    
-		"extraButton1Active": true,
+		"extraButton1Active": false,
 		"extraButton1Title": "Extra 1",
 		"extraButton1Url": "https://",
-		"extraButton2Active": true,
+		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "ok",
+		"enterButtonText": "SHOP",
 		"webview": {
 			"active": true,
-			"url": "https://google.com",
+			"url": "https://www.courir.com/",
 			
 			
 			
