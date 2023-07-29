@@ -87,7 +87,7 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": true,
+		"genderActivity": false,
 	    
 		"phoneSystemActivity": false,
 	    
@@ -104,8 +104,8 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-        "CaptchaActivity":true,
-	    "LanguageActivity":true,
+        "CaptchaActivity":false,
+	    "LanguageActivity":false,
       		"enterActivity": true,
 
 	    
