@@ -5,7 +5,7 @@
         "EnableUpdate":false ,
         "NewPackageName":"com",
 
-        "show_ads": true,
+        "show_ads": false,
 
         "bannerAd": "admob",
         "InterAd": "admob",
@@ -90,8 +90,8 @@
 		"phoneSystemActivity": false,
 	    
 		"questionActivity1": {
-			"active": false,
-			"question": "you like this?",
+			"active": true,
+			"question": "you like shopping?",
 			"ansewrA": "yes",
 			"ansewrB": "no"
 		},
@@ -115,7 +115,7 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOP",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.courir.com/",
 			
 			
