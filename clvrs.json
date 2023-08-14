@@ -5,10 +5,10 @@
         "EnableUpdate":false ,
         "NewPackageName":"com",
 
-        "show_ads": false,
+        "show_ads": true,
 
         "bannerAd": "admob",
-        "InterAd": "admob",
+        "InterAd": "max",
         "NativeAd": "admob",
          //"admob", "facebook", "max","ironsource","mintegral","toponad"
         "AdsNetwork":"max",
@@ -42,9 +42,9 @@
 
         "max_banner": "3fe9bf293afbac9e",
 		"Enable_EcpmMethode": false,
-        "max_inter": "6c4d15784bcee778",
-        "max_inter1": "6c4d15784bcee778",
-        "max_inter2": "6c4d15784bcee778",
+        "max_inter": "1ca5b61434f7c4d1",
+        "max_inter1": "1ca5b61434f7c4d1",
+        "max_inter2": "1ca5b61434f7c4d1",
         "max_native": "b43d132b63b854a6",
 
 
@@ -102,9 +102,9 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-        "CaptchaActivity":false,
+        "CaptchaActivity":true,
 	    "LanguageActivity":true,
-      		"enterActivity": false,
+      		"enterActivity": true,
 
 	    
 		"extraButton1Active": false,
@@ -113,10 +113,10 @@
 		"extraButton2Active": false,
 		"extraButton2Title": "Extra 2",
 		"extraButton2Url": "https://www",
-		"enterButtonText": "SHOP NOW",
+		"enterButtonText": "ORDER NOW",
 		"webview": {
-			"active": false,
-			"url": "https://google.com",
+			"active": true,
+			"url": "https://www.culvers.com/",
 			
 			
 			
