@@ -85,7 +85,7 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": true,
+		"genderActivity": false,
 	    
 		"phoneSystemActivity": false,
 	    
@@ -103,8 +103,8 @@
 		},
 		"birthdayActivity": false,
         "CaptchaActivity":false,
-	    "LanguageActivity":true,
-      		"enterActivity": false,
+	    "LanguageActivity":false,
+      		"enterActivity": true,
 
 	    
 		"extraButton1Active": false,
@@ -115,8 +115,8 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": false,
-			"url": "https://google.com",
+			"active": true,
+			"url": "https://wolvenstyle.com/",
 			
 			
 			
