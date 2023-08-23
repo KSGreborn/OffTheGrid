@@ -102,7 +102,7 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-        "CaptchaActivity":false,
+        "CaptchaActivity":true,
 	    "LanguageActivity":true,
       		"enterActivity": true,
 
@@ -115,7 +115,7 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.rue21.com/store/",
 			
 			
