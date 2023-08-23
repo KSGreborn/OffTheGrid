@@ -13,7 +13,7 @@
          //"admob", "facebook"
         "AdsNetwork":"admob",
 
-	"EnableBnr_Ntv":true,
+	"EnableBnr_Ntv":false,
         "admob_banner": "/21833905170,22877764688/Banner_com.mandm.shopmandmstore_banner_DU",
         "admob_inter": "/21833905170,22877764688/Interstitial_com.mandm.shopmandmstore_interstitial_DU",
         "admob_native": "/21833905170,22877764688/Native_com.mandm.shopmandmstore_native_DU",
@@ -87,7 +87,7 @@
 		},
         "privacyPolicy": "https://",
 	    
-		"genderActivity": false,
+		"genderActivity": true,
 	    
 		"phoneSystemActivity": false,
 	    
@@ -104,8 +104,8 @@
 			"ansewrB": "I don't know"
 		},
 		"birthdayActivity": false,
-        "CaptchaActivity":false,
-	    "LanguageActivity":false,
+        "CaptchaActivity":true,
+	    "LanguageActivity":true,
       		"enterActivity": true,
 
 	    
@@ -117,7 +117,7 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "SHOP NOW",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.mandmdirect.com/",
 			
 			
