@@ -5,7 +5,7 @@
         "EnableUpdate":false ,
         "NewPackageName":"com",
 
-        "show_ads": true,
+        "show_ads": false,
 
         "bannerAd": "admob",
         "InterAd": "max",
@@ -103,7 +103,7 @@
 		},
 		"birthdayActivity": false,
         "CaptchaActivity":true,
-	    "LanguageActivity":true,
+	    "LanguageActivity":false,
       		"enterActivity": true,
 
 	    
@@ -115,7 +115,7 @@
 		"extraButton2Url": "https://www",
 		"enterButtonText": "ORDER NOW",
 		"webview": {
-			"active": true,
+			"active": false,
 			"url": "https://www.culvers.com/",
 			
 			
